@@ -1,0 +1,7 @@
+C:\Users\jgallow\source\repos\DiceMethods3\DiceMethods3\bin\Debug\DiceMethods3.exe.config
+C:\Users\jgallow\source\repos\DiceMethods3\DiceMethods3\bin\Debug\DiceMethods3.exe
+C:\Users\jgallow\source\repos\DiceMethods3\DiceMethods3\bin\Debug\DiceMethods3.pdb
+C:\Users\jgallow\source\repos\DiceMethods3\DiceMethods3\obj\Debug\DiceMethods3.csprojResolveAssemblyReference.cache
+C:\Users\jgallow\source\repos\DiceMethods3\DiceMethods3\obj\Debug\DiceMethods3.csproj.CoreCompileInputs.cache
+C:\Users\jgallow\source\repos\DiceMethods3\DiceMethods3\obj\Debug\DiceMethods3.exe
+C:\Users\jgallow\source\repos\DiceMethods3\DiceMethods3\obj\Debug\DiceMethods3.pdb
